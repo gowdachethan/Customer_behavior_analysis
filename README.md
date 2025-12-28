@@ -47,6 +47,9 @@ This project demonstrates a **complete analytics lifecycle**, making it suitable
 - Business Intelligence portfolios
 - Stakeholder-facing analytics use cases
 
+## 📌 Problem Statement
+Businesses often struggle to understand customer purchasing behavior across demographics, subscriptions, and discount usage. This project addresses that gap by transforming raw transaction data into meaningful insights for strategic decision-making.
+
 ---
 
 ## 👤 Author
